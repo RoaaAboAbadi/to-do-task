@@ -1,0 +1,53 @@
+.ToDoData {
+  background-color: #f4f4f9;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  padding: 10px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  margin: 10px;
+}
+
+.together {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+
+.createdTasks {
+  background-color: #dfdfe6;
+  border-radius: 5px;
+  width: 50%;
+  padding: 5px;
+  font-size: 10px;
+  margin: 7px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  /* height: 30px; */
+}
+
+.theNumber {
+  font-weight: bold;
+}
+
+.completedTasks {
+  background-color: #dfdfe6;
+  border-radius: 5px;
+  width: 50%;
+  padding: 5px;
+  font-size: 10px;
+  margin: 7px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  /* height: 30px; */
+}
+
+.urgentTasks {
+  background-color: #dfdfe6;
+  border-radius: 5px;
+  width: 90%;
+  padding: 5px;
+  font-size: 10px;
+  margin: 7px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  /* height: 30px; */
+}
